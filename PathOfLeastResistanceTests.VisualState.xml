@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1000]C:\Users\dshultz\Documents\Visual Studio 2008\Projects\PathOfLeastResistance\PathOfLeastResistanceTests.nunit</TopNode>
+  <SelectedNode>[0-1000]C:\Users\dshultz\Documents\Visual Studio 2008\Projects\PathOfLeastResistance\PathOfLeastResistanceTests.nunit</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]C:\Users\dshultz\Documents\Visual Studio 2008\Projects\PathOfLeastResistance\PathOfLeastResistanceTests.nunit" Expanded="true" />
+    <Node UniqueName="[0-1015]C:\Users\dshultz\Documents\Visual Studio 2008\Projects\PathOfLeastResistance\PathOfLeastResistanceTests\bin\Debug\PathOfLeastResistanceTests.dll" Expanded="true" />
+    <Node UniqueName="[0-1016]PathOfLeastResistanceTests" Expanded="true" />
+    <Node UniqueName="[0-1004]PathOfLeastResistanceTests.GridTests" Expanded="true" />
+    <Node UniqueName="[0-1005]PathOfLeastResistanceTests.GridTests.VerifyThatTheWaterFindsThePathOfLeastResistance" Expanded="true" />
+    <Node UniqueName="[0-1001]PathOfLeastResistanceTests.WaterTests" Expanded="true" />
+  </Nodes>
+</VisualState>

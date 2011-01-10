@@ -1,0 +1,10 @@
+C:\Users\dshultz\Documents\Visual Studio 2008\Projects\PathOfLeastResistance\PathOfLeastResistance\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dshultz\Documents\Visual Studio 2008\Projects\PathOfLeastResistance\PathOfLeastResistance\obj\Debug\PathOfLeastResistance.Properties.Resources.resources
+C:\Users\dshultz\Documents\Visual Studio 2008\Projects\PathOfLeastResistance\PathOfLeastResistance\obj\Debug\PathOfLeastResistance.csproj.GenerateResource.Cache
+C:\Users\dshultz\Documents\Visual Studio 2008\Projects\PathOfLeastResistance\PathOfLeastResistance\bin\Debug\PathOfLeastResistance.exe
+C:\Users\dshultz\Documents\Visual Studio 2008\Projects\PathOfLeastResistance\PathOfLeastResistance\bin\Debug\PathOfLeastResistance.pdb
+C:\Users\dshultz\Documents\Visual Studio 2008\Projects\PathOfLeastResistance\PathOfLeastResistance\obj\Debug\PathOfLeastResistance.exe
+C:\Users\dshultz\Documents\Visual Studio 2008\Projects\PathOfLeastResistance\PathOfLeastResistance\obj\Debug\PathOfLeastResistance.pdb
+C:\Users\dshultz\Documents\Visual Studio 2008\Projects\PathOfLeastResistance\PathOfLeastResistance\bin\Debug\PathOfLeastResistanceLibrary.dll
+C:\Users\dshultz\Documents\Visual Studio 2008\Projects\PathOfLeastResistance\PathOfLeastResistance\bin\Debug\PathOfLeastResistanceLibrary.pdb
+C:\Users\dshultz\Documents\Visual Studio 2008\Projects\PathOfLeastResistance\PathOfLeastResistance\obj\Debug\PathOfLeastResistance.DataGridGenerator.resources

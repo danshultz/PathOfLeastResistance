@@ -1,0 +1,10 @@
+C:\Users\dshultz\Documents\Visual Studio 2008\Projects\PathOfLeastResistanceLibrary\PathOfLeastResistanceLibrary\bin\Debug\PathOfLeastResistanceLibrary.dll
+C:\Users\dshultz\Documents\Visual Studio 2008\Projects\PathOfLeastResistanceLibrary\PathOfLeastResistanceLibrary\bin\Debug\PathOfLeastResistanceLibrary.pdb
+C:\Users\dshultz\Documents\Visual Studio 2008\Projects\PathOfLeastResistanceLibrary\PathOfLeastResistanceLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dshultz\Documents\Visual Studio 2008\Projects\PathOfLeastResistanceLibrary\PathOfLeastResistanceLibrary\obj\Debug\PathOfLeastResistanceLibrary.dll
+C:\Users\dshultz\Documents\Visual Studio 2008\Projects\PathOfLeastResistanceLibrary\PathOfLeastResistanceLibrary\obj\Debug\PathOfLeastResistanceLibrary.pdb
+C:\Users\dshultz\Documents\Visual Studio 2008\Projects\PathOfLeastResistance\PathOfLeastResistanceLibrary\bin\Debug\PathOfLeastResistanceLibrary.dll
+C:\Users\dshultz\Documents\Visual Studio 2008\Projects\PathOfLeastResistance\PathOfLeastResistanceLibrary\bin\Debug\PathOfLeastResistanceLibrary.pdb
+C:\Users\dshultz\Documents\Visual Studio 2008\Projects\PathOfLeastResistance\PathOfLeastResistanceLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dshultz\Documents\Visual Studio 2008\Projects\PathOfLeastResistance\PathOfLeastResistanceLibrary\obj\Debug\PathOfLeastResistanceLibrary.dll
+C:\Users\dshultz\Documents\Visual Studio 2008\Projects\PathOfLeastResistance\PathOfLeastResistanceLibrary\obj\Debug\PathOfLeastResistanceLibrary.pdb

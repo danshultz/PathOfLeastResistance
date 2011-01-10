@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathOfLeastResistance", "PathOfLeastResistance\PathOfLeastResistance.csproj", "{5AD4D43F-26EB-478F-B223-3494FD94E01A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathOfLeastResistanceLibrary", "PathOfLeastResistanceLibrary\PathOfLeastResistanceLibrary.csproj", "{AA2E23F2-B4B0-443F-93DF-774C7BBF7EAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathOfLeastResistanceTests", "PathOfLeastResistanceTests\PathOfLeastResistanceTests.csproj", "{FCB52F47-38EF-47F8-B702-D164BFA3A92F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AD4D43F-26EB-478F-B223-3494FD94E01A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD4D43F-26EB-478F-B223-3494FD94E01A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD4D43F-26EB-478F-B223-3494FD94E01A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD4D43F-26EB-478F-B223-3494FD94E01A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA2E23F2-B4B0-443F-93DF-774C7BBF7EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2E23F2-B4B0-443F-93DF-774C7BBF7EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2E23F2-B4B0-443F-93DF-774C7BBF7EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2E23F2-B4B0-443F-93DF-774C7BBF7EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB52F47-38EF-47F8-B702-D164BFA3A92F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB52F47-38EF-47F8-B702-D164BFA3A92F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB52F47-38EF-47F8-B702-D164BFA3A92F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB52F47-38EF-47F8-B702-D164BFA3A92F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
